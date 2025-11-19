@@ -347,7 +347,7 @@ textarea {
 
 /* Logo image size */
 .site-header .logo {
-  height: auto;     /* Try 30–50px depending on how small you want it */
+  height: auto;     
   width: 200px;
   display: block;
 }
